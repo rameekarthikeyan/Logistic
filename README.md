@@ -1,2 +1,2 @@
 # Logistic
-This repository contains the R code for Logistic Regression
+This repository contains the R code for Logistic Regression algorithm.
